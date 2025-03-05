@@ -27,7 +27,7 @@
             'title' => 'Enchanting Kerala',
             'duration' => '5 Days / 4 Nights',
             'price' => '₹24,999',
-            'image' => 'https://source.unsplash.com/800x600/?kerala,backwaters',
+            'image' => 'images/demo.jpeg',
         ],
         // ... Add other packages similarly
     ];

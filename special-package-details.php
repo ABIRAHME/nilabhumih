@@ -85,7 +85,7 @@
 
                 <div class="flex justify-end space-x-4">
                     <a href="tour-packages.php" class="px-6 py-2 bg-gray-200 text-gray-700 rounded hover:bg-gray-300 transition duration-300">Back to Packages</a>
-                    <a href="checkout.php?package=<?php echo $id; ?>" class="px-6 py-2 bg-green-600 text-white rounded hover:bg-green-700 transition duration-300">Book Now</a>
+                    <a href="special-checkout.php?package=<?php echo $id; ?>" class="px-6 py-2 bg-green-600 text-white rounded hover:bg-green-700 transition duration-300">Book Now</a>
                 </div>
             </div>
         </div>

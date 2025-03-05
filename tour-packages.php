@@ -38,7 +38,7 @@
                     'title' => 'Enchanting Kerala',
                     'duration' => '5 Days / 4 Nights',
                     'price' => '₹24,999',
-                    'image' => 'https://source.unsplash.com/800x600/?kerala,backwaters',
+                    'image' => 'images/demo.jpeg',
                     'description' => 'Experience the serene backwaters, lush tea plantations, and rich culture of God\'s Own Country.',
                     'highlights' => ['Alleppey Houseboat Stay', 'Munnar Tea Gardens', 'Kovalam Beach', 'Ayurvedic Spa']
                 ],
@@ -46,7 +46,7 @@
                     'title' => 'Royal Rajasthan',
                     'duration' => '7 Days / 6 Nights',
                     'price' => '₹34,999',
-                    'image' => 'https://source.unsplash.com/800x600/?rajasthan,palace',
+                    'image' => 'images/demo.jpeg',
                     'description' => 'Journey through the land of kings, exploring majestic forts, palaces, and desert landscapes.',
                     'highlights' => ['Amber Fort', 'Desert Safari', 'Lake Palace', 'Local Cuisine']
                 ],
@@ -54,7 +54,7 @@
                     'title' => 'Himalayan Adventure',
                     'duration' => '6 Days / 5 Nights',
                     'price' => '₹29,999',
-                    'image' => 'https://source.unsplash.com/800x600/?himalayas,mountains',
+                    'image' => 'images/demo.jpeg',
                     'description' => 'Embark on a thrilling journey through the mighty Himalayas with breathtaking views.',
                     'highlights' => ['Trekking', 'River Rafting', 'Camping', 'Local Monasteries']
                 ],
@@ -62,7 +62,7 @@
                     'title' => 'Goa Beach Escape',
                     'duration' => '4 Days / 3 Nights',
                     'price' => '₹19,999',
-                    'image' => 'https://unsplash.com/photos/a-group-of-people-sitting-on-top-of-a-cement-wall-gTgBFGbFpNw',
+                    'image' => 'images/demo.jpeg',
                     'description' => 'Relax on pristine beaches, enjoy water sports, and experience vibrant nightlife.',
                     'highlights' => ['Beach Activities', 'Water Sports', 'Nightlife', 'Portuguese Heritage']
                 ],
@@ -70,7 +70,7 @@
                     'title' => 'Northeast Explorer',
                     'duration' => '8 Days / 7 Nights',
                     'price' => '₹39,999',
-                    'image' => 'https://unsplash.com/photos/a-blurry-photo-of-a-blue-background-xwp0_eLoZp0',
+                    'image' => 'images/demo.jpeg',
                     'description' => 'Discover the untouched beauty of Northeast India with its unique culture and landscapes.',
                     'highlights' => ['Living Root Bridges', 'Tea Gardens', 'Wildlife Safari', 'Local Festivals']
                 ],
@@ -78,7 +78,7 @@
                     'title' => 'Golden Triangle',
                     'duration' => '6 Days / 5 Nights',
                     'price' => '₹27,999',
-                    'image' => 'https://source.unsplash.com/800x600/?taj-mahal,india',
+                    'image' => 'images/demo.jpeg',
                     'description' => 'Experience the perfect introduction to India\'s rich history and culture.',
                     'highlights' => ['Taj Mahal', 'Red Fort', 'City Palace', 'Local Markets']
                 ]
